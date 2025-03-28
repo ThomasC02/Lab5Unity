@@ -1,0 +1,12 @@
+# ninja log v5
+155	3809	7609485263664102	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f3847154a0b5e634
+3896	8245	7609485299990303	C:/Users/thoma/Downloads/DeforestationAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/32v131p1/obj/arm64-v8a/libswappywrapper.so	3c946c0f0c77dbe1
+108	12254	7609485346987832	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2d1c816da8fd8ee6
+79	12564	7609485351009535	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c94eeb350fdc6274
+123	12784	7609485352612606	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8ec4bd397c2fe049
+49	12824	7609485354251831	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	370f2eae9c996ba3
+138	13390	7609485359373042	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1d9036a2f790c31f
+3	13639	7609485362528000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4c963c661d71fedd
+94	14850	7609485374062488	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b90192fc0aa35a8f
+63	15242	7609485378558671	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	843ad6f8c2a85602
+15243	15772	7609485384067561	C:/Users/thoma/Downloads/DeforestationAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/32v131p1/obj/arm64-v8a/libgame.so	4523c70e672d9ca5
